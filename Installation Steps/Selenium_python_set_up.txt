@@ -1,0 +1,26 @@
+***************************************************Selenium python set-up*******************************************************************************************************************
+
+----------------------------------------------------Python Setup----------------------------------------------------------------------------------------------------------------------------
+
+1 Download latest version of python from official website of the python
+
+2 Set below system variables
+a. C:\Users\neham\AppData\Local\Programs\Python\Python312
+b. C:\Users\neham\AppData\Local\Programs\Python\Python312\Scripts
+
+3 For verification open command prompt on the machine and enter command "python --version", if everything is correctly configured then correct python version will be displayed.
+
+
+-------------------------------------------------selenium download--------------------------------------------------------------------------------------------------------------------------
+1. Open the command prompt and execute below command: pip install selenium
+
+2. For verification of the selenium installation execute: pip show selenium
+
+--------------------------------------------------PyCharm installation----------------------------------------------------------------------------------------------------------------------
+
+ Install community edition PyCharm from their official website.
+
+
+
+
+******************************************************Thank You*****************************************************************************************************************************
